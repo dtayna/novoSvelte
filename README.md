@@ -1,0 +1,2 @@
+# novoSvelte
+Created with CodeSandbox
