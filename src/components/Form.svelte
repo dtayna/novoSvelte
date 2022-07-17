@@ -17,7 +17,9 @@
     {/each}
      <button class="botao" on:click={e=>submeter()}>Submeter</button>
 	<div class="tabs">
+  {#if nivel==1}
   <Tab topos={coisa1} conteudos={coisa2} />
+  {/if}
 </div>
 </div>
 
